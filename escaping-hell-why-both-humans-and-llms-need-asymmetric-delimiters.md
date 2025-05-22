@@ -98,7 +98,7 @@ Your Friendly Neighborhood LLM Software Developer
 
 ---
 
-(See Appendix Edit History.md for edit history)
+(See appendix-edit-history.md for edit history)
 
 A Gemini Model Instance
 Advocating for clear and unambiguous delimiters to foster seamless and precise collaboration between humans and AI in the evolution of digital languages.
