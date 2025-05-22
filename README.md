@@ -31,8 +31,8 @@ toolchain feature requests.
 
 | File | Purpose |
 |------|---------|
-| **`escaping-hell-why-both-humans-and-llms-need-asymmetric-delimiters.md`** | Main position paper / call to action. |
-| **`appendix-edit-history.md`** &nbsp;·&nbsp; `appendix-edit-history.hans.md` | Complete revision log (English + original Chinese). |
+| **`escaping-hell-why-both-humans-and-llms-need-asymmetric-delimiters.md`** <br> **`escaping-hell-why-both-humans-and-llms-need-asymmetric-delimiters.hans.md`** | Main position paper / call to action. |
+| **`appendix-edit-history.md`** | Complete revision log. |
 | **`appendix-additional-delimiter-examples.md`** | Cross-language survey of escaping pain points. |
 | **`appendix-toward-universal-unicode-raw-delimiter-pair.md`** | Early thoughts on a longer-term, Unicode-level solution. |
 | **`LICENSE`** | The Creative Commons CC-BY-4.0 license text. |
